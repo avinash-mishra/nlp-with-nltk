@@ -1,2 +1,3 @@
 # quickstart-nlp
-This is a quickstart tutorial for nlp and sentiment analysis. 
+This is a basic nlp with nltk project. 
+It can be used for beginer to understand basics of text processing and run a simple classification model. 
